@@ -3,7 +3,7 @@
 ## Welcome to my GitHub profile! I'm a Software Developer, and I'm passionate about Technology.<br>
 ---
 🔭 Current Work:<br>
-* Currently, I'm working on couple of startups myself, which is currently under work.<br>
+* Currently, I'm working on couple of startups myself.
 ---
 🌱 Learning:<br>
 * I'm always learning new things and improving my skills. Right now, I'm focused on Web Development learning the infamous MEAN Stack, and I'm looking forward to learn AI and ML using ScikitLearn, Tensorflow and Keras,But limited to the hardware i have.
