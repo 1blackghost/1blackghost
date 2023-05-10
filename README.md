@@ -23,7 +23,7 @@
 * C++,just a begineer<br>
 * NodeJS & ExpressJS,sort of done some projects and continues work in it.<br>
 ---
-### 📊 GitHub Stats:
+📊 GitHub Stats:
 <br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=1blackghost&count_private=true&theme=tokyonight&showicons=true)]()
 <br>
