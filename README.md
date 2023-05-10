@@ -32,6 +32,5 @@
 ---
 🎉 Fun Fact:<br>
 >Debugging is like being a detective in a crime movie where you're also the murderer.
-<br>
----
-Thanks for stopping by!
+
+***Thanks for stopping by!
