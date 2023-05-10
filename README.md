@@ -19,7 +19,8 @@ If you're interested in contributing to my projects, please reach out to me or o
 [Your favorite technologies and tools, e.g., languages, frameworks, libraries, editors, etc.]
 
 📊 GitHub Stats
-Your GitHub stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=1blackghost&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=1blackghost&langs_count=5&theme=tokyonight)]()
 
 🎉 Fun Fact
 [Insert a fun fact about yourself]
