@@ -1,4 +1,4 @@
-# Hello, I'm Ashish Joseph A.K.A 1blackghost👋<br>
+# Hello, I'm Ashish Joseph A.K.A blackghost👋<br>
 
 ## Welcome to my GitHub profile! I'm a Software Developer, and I'm passionate about Technology.<br>
 ---
